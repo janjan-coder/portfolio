@@ -1,0 +1,48 @@
+.nav-item{
+    float: left;
+    overflow: hidden;
+
+}
+.nav-item:hover{
+   text-decoration: underline skyblue 2px;
+
+}
+#p1{
+    font-family: "Briem Hand", cursive;
+    font-size:27px;
+}
+#brand1{
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    padding-bottom: 0;
+    font-weight: 400;
+}
+#imgICCT{
+    margin-top: 15%;
+    height: 30vh;
+    width: 22vw;
+    border-radius: 50%;
+}
+#profilePicFb{
+    height: 55vh;
+    width: 25vw;
+    text-wrap: wrap;
+}
+#divProfile{
+    height:75px;
+    }
+    #div1ICCT{
+    border-top: ridge;
+    }
+#workExperience1{
+  text-wrap: wrap;
+}
+#StaLucia{
+    z-index: 1;
+    overflow: hidden;
+}
+#aboutMyself{
+    height: 100%;
+    display:flexbox;
+}
+  
